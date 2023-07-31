@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+icon.png
+move_tracker.py
+notepad.py
+main.py
+expenses.db
+categories.csv
+.idea
+__pycache__/
+venv/
